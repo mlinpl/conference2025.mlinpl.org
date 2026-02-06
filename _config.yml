@@ -28,7 +28,7 @@ description: >-
 main-image: images/mlinpl-conference-2025-logo-black.png
 twitter-username: "@MLinPL"
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://conference.mlinpl.org" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://conference2025.mlinpl.org" # the base hostname & protocol for your site, e.g. http://example.com
 author:
   name: ML in PL Association
   url: https://mlinpl.org
