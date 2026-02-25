@@ -27,8 +27,8 @@ description: >-
   ML in PL Conference 2025 is an event focused on the best of Machine Learning both in academia and in business.
 main-image: images/mlinpl-conference-2025-logo-black.png
 twitter-username: "@MLinPL"
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://conference2025.mlinpl.org" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/mlinpl_submodules_poc/2025" # the subpath of your site, e.g. /blog
+url: "https://mlinpl.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 author:
   name: ML in PL Association
   url: https://mlinpl.org
@@ -52,7 +52,7 @@ header:
   # These are automatically selected based on what content is available (see state.photos and state.aftermovie)
   post-event-messages:
     with-aftermovie: 'Thank you for participating!</br>Find the <a class="page-scroll" href="#aftermovie"> aftermovie and photos <i class="fa-solid fa-photo-film"></i></a> below<br>and we hope to see you <a href="next-year">next year!</a>'
-    with-photos: 'Thank you for participating!</br>Take a look at <a href="/photos">the photos <i class="fa-solid fa-camera-retro"></i></a><br>and we hope to see you <a href="next-year">next year!</a>'
+    with-photos: 'Thank you for participating!</br>Take a look at <a href="{{ "/photos" | relative_url }}">the photos <i class="fa-solid fa-camera-retro"></i></a><br>and we hope to see you <a href="next-year">next year!</a>'
     default: 'Thank you for participating<br>and we hope to see you <a href="next-year">next year!</a>'
   
   # Primary call-to-action arrow destinations by conference phase
