@@ -586,10 +586,6 @@ ol > li > ol > li > ol > li:before {
         padding-bottom: 60px;
     }
 
-    .download-section {
-        padding: 100px 0;
-    }
-
     #map {
         height: 400px;
         margin-top: 250px;
