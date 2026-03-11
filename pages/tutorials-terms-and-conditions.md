@@ -23,7 +23,7 @@ Rules of contributed tutorials acceptance to the **ML in PL** CONFERENCE 2025 (h
 ## § 2. ENTITIES INVOLVED IN THE ORGANIZATION OF THE COMPETITION
 
 1. The organizer of the Competition is ML in PL Association (hereinafter, the “Organizer”), who has appointed a competition’s committee.
-2. The Organizer will appoint an awards committee (hereinafter the "Commission") that might include, i.a., Advisory Board members (<https://conference.mlinpl.org/#advisory-board>), Invited Speakers (<https://conference.mlinpl.org/#invited-speakers>), Student Research Workshop and Organizer representants (<https://conference.mlinpl.org/#organizers>).
+2. The Organizer will appoint an awards committee (hereinafter the "Commission") that might include, i.a., [Advisory Board members]({{ "/#advisory-board" | relative_url }}), [Invited Speakers]({{ "/#invited-speakers" | relative_url }}), Student Research Workshop and [Organizer representants]({{ "/#organizers" | relative_url }}).
 
 
 ## § 3. CONDITIONS FOR TAKING PART IN THE COMPETITION

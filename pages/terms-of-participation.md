@@ -51,11 +51,11 @@ instructions as to the method of making the payment necessary to qualify the Can
 **[CONDITIONS FOR REGISTRATION IN THE STANDARD PERIOD]**
 9. For the Standard Period, the qualification of a Candidate for a Conference will depend on the order of submission of the Registration Form together with making a payment (first come-first served).
 10. After submission of the Registration Form and finalizing the payment, the Organizer will send Candidates an e-mail message containing the Conference Pass under the condition that the Candidate managed to pay the fee before other Candidates.
-11. If the maximum number of Participants is reached, the Organiser will inform about the completion of the Standard Period registration in particular by placing an announcement on the website [https://conference.mlinpl.org/](http://conference.mlinpl.org/) and by closing the possibility of submission of the Registration Form.
+11. If the maximum number of Participants is reached, the Organiser will inform about the completion of the Standard Period registration in particular by placing an announcement on the website [https://conferenc2025e.mlinpl.org/](http://conference2025.mlinpl.org/) and by closing the possibility of submission of the Registration Form.
 12. Due to the limited number of Lecture participants, the Organizer does not guarantee the possibility of taking part in a specific Lecture. The possibility of taking part in a given Lecture will depend on the order of arrival for a given Lecture (first come-first served).
 
 ## 3. PAYMENTS
-1. The amount of fee for Candidates registering to the Conference and Tutorials is going to be presented on the website at the [https://conference.mlinpl.org/](http://conference.mlinpl.org/) address.
+1. The amount of fee for Candidates registering to the Conference and Tutorials is going to be presented on the website at the [https://conference2025.mlinpl.org/](http://conference2025.mlinpl.org/) address.
 2. The amount of fee will differ depending on: the date of submitting the Registration Form (the fee might depend on the period, such as Early Bird Period), whether the Candidate is a student or not and whether they are willing to participate in a Conference or the Tutorials.
 3. For the avoidance of doubts, ‘student’ shall be understood as a person who possesses (a) for students from Poland - a valid student ID card, issued as specified by the Minister of National Education (MEN-I/1 or MEN-I/2 or MEN-I/50/2, MEN-I/50a/2 or MEN-I/50b/2) or the Minister of Culture and National Heritage (ART/100 or ART/102); and  (b) for foreign students - a valid ISIC (International Student Identity Card) for a given calendar year.
 4. The Candidate shall pay the fee due to the Organizer to the bank account indicated in the e-mail sent by the Organizer or by other electronic means indicated by the Organizer (e.g. PayU or PayPal).
@@ -68,7 +68,7 @@ instructions as to the method of making the payment necessary to qualify the Can
 2. The fee for participation in the Tutorials includes:
     1. the right to Participate in the Tutorials in accordance with the Terms of Participation;
     2. the provision of snacks and hot drinks during coffee breaks taking place during the day of Tutorials.
-3. The programme of the Conference and Tutorials will be available on the website at www.conference.mlinpl.org.
+3. The programme of the Conference and Tutorials will be available on the website at www.conference2025.mlinpl.org.
 
 ## 5. CONSENT TO THE USE OF PARTICIPANT'S IMAGE
 1. During the Conference, the Organizer may conduct photo sessions and film the Conference for the purposes of broadcasting in the mass media (television, radio, Internet, press) or for the purposes of documentation, promotion, advertising of the Organizer and other persons indicated by the Organizer. 
@@ -76,7 +76,7 @@ instructions as to the method of making the payment necessary to qualify the Can
 3. The aforementioned consent shall mean that photographs, films or recordings taken during the Conference may be placed on the website of the Conference or another website managed by the Organizer and used in promotional materials, also distributed for this purpose by means of a vision or sound. 
 
 ## 6. THE CONDITIONS FOR PARTICIPATION OF SPEAKERS
-1. The conditions of qualification of speakers for the Conference are regulated in separate regulations entitled [Call for Contributions - Terms and Conditions](https://conference.mlinpl.org/cfc-terms-and-conditions).
+1. The conditions of qualification of speakers for the Conference are regulated in separate regulations entitled [Call for Contributions - Terms and Conditions]({{ "/cfc-terms-and-conditions" | relative_url }}).
 
 ## 7. PRIVACY POLICY
 1. The rules of personal data processing within the scope of these Terms of Participation and using the services of the Organizer are regulated in a separate document entitled Privacy Policy.

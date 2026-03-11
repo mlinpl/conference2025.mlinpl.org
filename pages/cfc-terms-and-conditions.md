@@ -23,7 +23,7 @@ Rules of contributed talks, posters, student research workshop acceptance to {{ 
 ## § 2. Entities involved in the organization of the Competition
 
 1. The organizer of the Competition is **_ML in PL Association_** (hereinafter, the "Organizer"), who has appointed a competition’s committee.
-2. The Organizer will appoint an awards committee (hereinafter the "Commission") that might include, i.a., Advisory Board members (<https://conference.mlinpl.org/#advisory-board>), Invited Speakers (<https://conference.mlinpl.org/#invited-speakers>) and Organizer representants (<https://conference.mlinpl.org/#organizers>).
+2. The Organizer will appoint an awards committee (hereinafter the "Commission") that might include, i.a., [Advisory Board members]({{ "/#advisory-board" | relative_url }}), [Invited Speakers]({{ "/#invited-speakers" | relative_url }}) and [Organizer representants]({{ "/#organizers" | relative_url }}).
 
 
 ## § 3. Conditions for taking part in the Competition
@@ -36,7 +36,7 @@ Rules of contributed talks, posters, student research workshop acceptance to {{ 
 ## § 4. The rules and the course of the Competition
 
 1. The registration for the Competition will be open from 1 May 2025 and end on 31 July 2025 (hereinafter, the "Duration of the Competition").
-2. Registration for the Competition takes place via the registration form in the Call for Contribution section available at [https://conference.mlinpl.org/](http://conference.mlinpl.org/) (hereinafter, the "Website").
+2. Registration for the Competition takes place via the registration form in the Call for Contribution section available at [conference.mlinpl.org]({{ "/" | relative_url }}) (hereinafter, the "Website").
 3. In order to participate in the Competition, the Participant is obliged to submit the registration form on the Website through which the Participant provides:
    - his/her personal data, 
    - his/her preference towards presenting a talk at the Conference or Workshop
